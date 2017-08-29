@@ -13,10 +13,10 @@ Jfi2HfvFvL63gJ226qBmra:  10237
 K3CEPZSRhJB6tUbFGW9xBn:  829
 Kwi3NlxyHfl9BG4BKmfA2N:  117203
 LyDG2Rs37NrFIXAaNzZ0ZD:  32533
-base:                    532182
+base:                    532545
 ghc-prim:                19232
 integer-gmp:             43175
-main:                    305883
+main:                    302481
 
 
 code size per module:
@@ -134,7 +134,7 @@ base
     GHC.Int:                            19642
     GHC.List:                           11801
     GHC.MVar:                           336
-    GHC.Num:                            3347
+    GHC.Num:                            3710
     GHC.Ptr:                            188
     GHC.Real:                           34698
     GHC.ST:                             186
@@ -159,13 +159,13 @@ integer-gmp
 
 main
     GameModel:                          51264
-    InputModel:                         17446
-    Logic:                              60092
+    InputModel:                         14064
+    Logic:                              60072
     Main:                               3387
     Rendering:                          81894
     Touch:                              91800
 
 
 
-packed metadata: 243802
+packed metadata: 243709
 
