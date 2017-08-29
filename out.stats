@@ -8,15 +8,15 @@ C2Mfkb8HC82GaJ8en3W8QZ:  29759
 D2NSM94oW0ZLGzvM4JLzyp:  5785
 DWVcSMh38gx3TEd3hdM4tI:  1964
 DgUVBki0L1f3m8dsJ5uFNr:  17873
-Gwl015olaMRFNWRFdW7UWC:  94032
+Gwl015olaMRFNWRFdW7UWC:  94608
 Jfi2HfvFvL63gJ226qBmra:  10237
 K3CEPZSRhJB6tUbFGW9xBn:  829
 Kwi3NlxyHfl9BG4BKmfA2N:  117203
 LyDG2Rs37NrFIXAaNzZ0ZD:  32533
-base:                    530230
+base:                    532182
 ghc-prim:                19232
 integer-gmp:             43175
-main:                    295538
+main:                    305883
 
 
 code size per module:
@@ -68,9 +68,9 @@ Gwl015olaMRFNWRFdW7UWC
     Miso.FFI:                           9985
     Miso.Html.Element:                  1597
     Miso.Html.Event:                    317
-    Miso.Html.Internal:                 25012
+    Miso.Html.Internal:                 22708
     Miso.Html.Property:                 332
-    Miso.Subscription.Keyboard:         13999
+    Miso.Subscription.Keyboard:         16879
 
 Jfi2HfvFvL63gJ226qBmra
     GHCJS.Prim:                         5796
@@ -95,6 +95,7 @@ base
     Data.Bits:                          382
     Data.Either:                        397
     Data.Fixed:                         2041
+    Data.Maybe:                         173
     Data.OldList:                       2870
     Data.Tuple:                         167
     Data.Typeable:                      885
@@ -138,7 +139,7 @@ base
     GHC.Real:                           34698
     GHC.ST:                             186
     GHC.STRef:                          194
-    GHC.Show:                           15551
+    GHC.Show:                           17330
     GHC.Storable:                       1084
     GHC.TopHandler:                     13541
     GHC.Word:                           350
@@ -157,14 +158,14 @@ integer-gmp
     GHC.Integer.Type:                   42842
 
 main
-    GameModel:                          50993
-    InputModel:                         6498
-    Logic:                              57955
-    Main:                               3392
-    Rendering:                          84900
+    GameModel:                          51264
+    InputModel:                         17446
+    Logic:                              60092
+    Main:                               3387
+    Rendering:                          81894
     Touch:                              91800
 
 
 
-packed metadata: 243348
+packed metadata: 243802
 
