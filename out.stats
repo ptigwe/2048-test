@@ -1,6 +1,6 @@
 code size summary per package:
 
-1tCS4L7OKsB7W68Bq2Ykwz:  92362
+1tCS4L7OKsB7W68Bq2Ykwz:  94690
 64I3yBiXAGrJGhElwwUOUS:  12592
 7jWyfEISFeaGusWrhMBMIw:  12525
 9ku4avqXuSp6wB2VlMiAu0:  18644
@@ -16,7 +16,7 @@ LyDG2Rs37NrFIXAaNzZ0ZD:  32533
 base:                    530230
 ghc-prim:                19232
 integer-gmp:             43175
-main:                    291384
+main:                    294916
 
 
 code size per module:
@@ -31,7 +31,7 @@ code size per module:
     Miso.FFI:                           9989
     Miso.Html.Element:                  1657
     Miso.Html.Event:                    329
-    Miso.Html.Internal:                 22948
+    Miso.Html.Internal:                 25276
     Miso.Html.Property:                 344
     Miso.Subscription.Keyboard:         13857
 
@@ -157,14 +157,14 @@ integer-gmp
     GHC.Integer.Type:                   42842
 
 main
-    GameModel:                          47021
+    GameModel:                          50993
     InputModel:                         6498
-    Logic:                              60258
-    Main:                               3299
-    Rendering:                          82480
+    Logic:                              56747
+    Main:                               3332
+    Rendering:                          85518
     Touch:                              91828
 
 
 
-packed metadata: 241076
+packed metadata: 243227
 
