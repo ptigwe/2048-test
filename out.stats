@@ -16,7 +16,7 @@ LyDG2Rs37NrFIXAaNzZ0ZD:  32533
 base:                    530230
 ghc-prim:                19232
 integer-gmp:             43175
-main:                    294916
+main:                    296128
 
 
 code size per module:
@@ -159,12 +159,12 @@ integer-gmp
 main
     GameModel:                          50993
     InputModel:                         6498
-    Logic:                              56747
+    Logic:                              57959
     Main:                               3332
     Rendering:                          85518
     Touch:                              91828
 
 
 
-packed metadata: 243227
+packed metadata: 243319
 
